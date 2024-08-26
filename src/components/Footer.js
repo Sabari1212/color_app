@@ -5,7 +5,9 @@ const Footer = () => {
    < div style={{
         backgroundColor:'black',
         color:'white',
-        padding:'3px'
+         paddingBottom:'2px',
+        paddingTop:'1px',
+        marginTop:'30%'
     }}>
         <h1>Developed by Sabi</h1>
     </div>
