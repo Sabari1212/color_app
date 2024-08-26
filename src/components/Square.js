@@ -9,7 +9,7 @@ const Square = ({color,tcolor}) => {
         width:"300px",
         border:"2px solid black",
         marginTop:"5%",
-        marginLeft:"40%",
+        marginLeft:"15%",
 
         color:tcolor? "black" : "white"
         
