@@ -5,7 +5,9 @@ const Header = () => {
     <div style={{
         backgroundColor:'black',
         color:'white',
-        padding:'3px'
+        paddingBottom:'2px',
+        paddingTop:'1px',
+        marginTop:'5%'
     }}>
         <h1>Word to color app</h1>
     </div>
